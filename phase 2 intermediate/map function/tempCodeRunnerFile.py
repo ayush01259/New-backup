@@ -1,0 +1,1 @@
+df["Bonus"] = df["Sales"].apply(lambda x : "Sales"*0.10)
