@@ -1,0 +1,1 @@
+print("By vecotrization : ", arr.sum(axis= 0))
